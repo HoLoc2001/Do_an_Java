@@ -124,7 +124,7 @@ DELIMITER ;
 
 
 
-drop procedure USP_DoanhThu;
+
 DELIMITER $$
 CREATE PROCEDURE USP_DoanhThu()
 BEGIN
